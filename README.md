@@ -8,16 +8,16 @@ An Excel analysis of automotive sales data (January 2018 - December 2022) coveri
 ## Charts
 
 ### Quantity Sold by Dealer ID
-![Quantity Sold by Dealer ID](screenshots/1_quantity_sold_by_dealer.png)
+![Quantity Sold by Dealer ID](1_quantity_sold_by_dealer.png)
 
 ### Profit by Date and Model
-![Profit by Date and Model](screenshots/2_profit_by_date_and_model.png)
+![Profit by Date and Model](2_profit_by_date_and_model.png)
 
 ### Profit by Year and Dealer ID
-![Profit by Year and Dealer ID](screenshots/3_profit_by_year_and_dealer.png)
+![Profit by Year and Dealer ID](3_profit_by_year_and_dealer.png)
 
 ### Profit of Hudson Models by Dealer ID
-![Profit of Hudson Models by Dealer ID](screenshots/4_profit_hudson_by_dealer.png)
+![Profit of Hudson Models by Dealer ID](4_profit_hudson_by_dealer.png)
 
 ## Key insights
 
@@ -31,7 +31,7 @@ An Excel analysis of automotive sales data (January 2018 - December 2022) coveri
 | File | Description |
 |---|---|
 | `CarSalesByModelEnd.xlsx` | The workbook: one pivot table and chart per tab, plus the source data on `Sheet1` |
-| `screenshots/` | Images of the four charts |
+| `*.png` | Images of the four charts |
 
 ## Tools
 
